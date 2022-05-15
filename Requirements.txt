@@ -1,0 +1,6 @@
+Requirement to Check the given string is palindrome or not
+Take two string_type variables one is read the user input second just declear
+Take one Integer_type variable 
+Use nested for loop to compare the string and store the second variable above we declear
+Now if both string equal int variable return 1 else return 0
+if int variable return 1 number string is palindrome else string is not palindrome
